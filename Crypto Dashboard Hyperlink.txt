@@ -1,1 +1,0 @@
-https://nbviewer.org/github/toddmaGH/Python-Projects/blob/main/2Crypto%20Currency%20Rates.ipynb
